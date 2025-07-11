@@ -61,4 +61,4 @@ Line above
 
 - [ ] uncheckbox1
 
-- [x] uncheckbox1
+- [x] checkbox1
