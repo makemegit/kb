@@ -55,3 +55,6 @@ Line above
    - sublist
    - sublist2
 
+|Col1|Col2|
+|---|---|
+|table1|table2|
