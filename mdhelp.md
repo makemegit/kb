@@ -25,3 +25,8 @@ Text is ***BOLD and Italics***
 Text is __BOLD and Italics___
 
 This is `code`
+
+This is
+```
+code
+```
