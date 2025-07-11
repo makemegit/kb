@@ -59,5 +59,6 @@ Line above
 |---|:---|---:|:---:|
 |table1|table2|table3|table4|
 
+- [ ] uncheckbox1
 
-
+- [x] uncheckbox1
