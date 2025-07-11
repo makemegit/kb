@@ -27,6 +27,6 @@ Text is __BOLD and Italics___
 This is `code`
 
 This is
-```
+```sh
 code
 ```
