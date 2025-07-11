@@ -31,7 +31,7 @@ This is
 code
 ls
 ```
-[This is a link to googel](https://google.com)
+[This is a link to google](https://google.com)
 
 <https://google.com>
 
@@ -48,4 +48,10 @@ Line below
 ***
 
 Line above
+
+1. List 1
+2. List 2
+
+   - sublist
+   - sublist2
 
