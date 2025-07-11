@@ -22,12 +22,12 @@ Text is __BOLD__
 
 Text is ***BOLD and Italics***
 
-Text is __BOLD and Italics___
+Text is ___BOLD and Italics___
 
 This is `code`
 
 This is
-```sh
+```
 code
 ls
 ```
